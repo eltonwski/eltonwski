@@ -36,4 +36,4 @@ Web Developer with a multidisciplinary background in automation, design, marketi
 - Combining technology with design and content
 
 ### 📫 Contact
-- LinkedIn: [https://www.linkedin.com/in/seu-usuario](https://www.linkedin.com/in/elton-lesniowski-366227348/)
+- LinkedIn:  https://www.linkedin.com/in/elton-lesniowski-366227348/
