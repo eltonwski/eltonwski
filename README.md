@@ -1,16 +1,39 @@
-## Hi there 👋
+## 👋 Hi, I'm Elton
 
-<!--
-**eltonwski/eltonwski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer with a multidisciplinary background in automation, design, marketing and AI applied to real-world problems.
 
-Here are some ideas to get you started:
+### 💻 What I do
+- Web development and custom systems
+- Process automation and workflow optimization
+- API and WhatsApp integrations
+- AI applied to productivity and digital solutions
+- Visual design and digital content creation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+**Development**
+- JavaScript
+- Node.js
+- HTML & CSS
+- REST APIs
+- Automation
+
+**Design & Creative**
+- Figma
+- Adobe Photoshop
+- Adobe After Effects
+- Digital Design for Web & Social Media
+- Video editing for digital content
+
+**AI & Automation**
+- Applied Artificial Intelligence
+- Workflow automation
+- AI-assisted content and process optimization
+
+### 📌 Current focus
+- Building practical digital solutions
+- Automating repetitive processes
+- Integrating AI into real business workflows
+- Combining technology with design and content
+
+### 📫 Contact
+- LinkedIn: https://www.linkedin.com/in/seu-usuario
